@@ -16,10 +16,6 @@ The samples include:
 
 **Metrics**
 
-_Model summary_
-
-![Link to model](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/model.png)
-
 _Loss and accuracy plots_
 
 ![Link to loss](https://github.com/Nishaant-Rastogi/Emotions_Recognition/blob/main/media/model_loss.png)
@@ -36,13 +32,11 @@ _Confusion matrix_
 
 **How to use the code inside this repository**
 
-1.  Download Audio_Song_Actors_01-24.zip and Audio_Speech_Actors_01-24.zip, unzip and merge the content of the folders (e.g. Actor_01 should include both Speech and Song) and then add it to the `features` folder.
+1.  Download Audio_Song_Actors_01-24.zip and Audio_Speech_Actors_01-24.zip, unzip and merge the content of the folders (e.g. Actor_01 should include both Speech and Song).
 
-2.  Create two empty folders, `Actor_25` and `Actor_26`, into the `features` folder.
+2.  Run the VideoToWav.py script to convert video to audio wav files and then add it to the `features` folder.
 
-3.  Run `tess_pipeline.py`: this will copy the files in the `Actor_25` and `Actor_26` folders with a usable naming convention. For details, read the docstrings of `tess_pipeline.py`.
-
-4.  The Jupyter Notebook `EmotionsRecognition.ipynb` is present in the `legacy_code/data_exploration/` folder. Run all the cells and the model will be created in the `model` folder
+3.  The Jupyter Notebook `EmotionsRecognition.ipynb` is present in the `legacy_code/` folder. Run all the cells and the model will be created in the `model` folder
 
     **How to test the model created in this work**
 
