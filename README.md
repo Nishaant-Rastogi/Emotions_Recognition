@@ -22,13 +22,13 @@ _Model summary_
 
 _Loss and accuracy plots_
 
-![Link to loss](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/loss.png)
+![Link to loss](https://github.com/Nishaant-Rastogi/Emotions_Recognition/blob/main/media/model_loss.png)
 
-![Link to accuracy](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/accuracy.png)
+![Link to accuracy](https://github.com/Nishaant-Rastogi/Emotions_Recognition/blob/main/media/model_accuracy.png)
 
 _Classification report_
 
-![Link do classification report](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/ClassificationReport.png)
+![Link do classification report](https://github.com/Nishaant-Rastogi/Emotions_Recognition/blob/main/media/classification_report.png)
 
 _Confusion matrix_
 
