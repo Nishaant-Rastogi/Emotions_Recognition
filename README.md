@@ -2,7 +2,7 @@
 
 **Executive Summary**
 
-This project presents a deep learning classifier able to predict the emotions of a human speaker encoded in an audio file. The classifier is trained using the RAVDESS dataset, and has an overall F1 score of 80% on 8 classes (neutral, calm, happy, sad, angry, fearful, disgust and surprised).
+This project presents a deep learning classifier able to predict the emotions of a human speaker encoded in an audio file. The classifier is trained using the RAVDESS dataset, and has an overall F1 score of 70% on 8 classes (neutral, calm, happy, sad, angry, fearful, disgust and surprised).
 
 **Feature set information**
 
