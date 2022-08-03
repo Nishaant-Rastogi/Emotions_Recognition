@@ -28,7 +28,7 @@ _Classification report_
 
 _Confusion matrix_
 
-![Link do classification report](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/ConfusionMatrix.png)
+![Link do classification report](https://github.com/Nishaant-Rastogi/Emotions_Recognition/blob/main/media/confusion_matrix.png)
 
 **How to use the code inside this repository**
 
